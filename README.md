@@ -1,2 +1,3 @@
 # QR-Code-Scanner
 QR code scanner using Html, CSS , java script
+This project is a QR code scanner built using HTML, CSS, and JavaScript. The application enables users to scan and decode QR codes directly through their web browser using their device's camera. It leverages JavaScript libraries like html5-qrcode to handle the real-time scanning process and decode the QR content. The project demonstrates how web technologies can be combined to create a fully functional and responsive QR code scanner that can be easily integrated into other web applications. This repository includes all the necessary files and instructions to set up and run the QR code scanner on your local machine.
